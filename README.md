@@ -10,7 +10,7 @@
 
 </p>
 
-(https://github.com/leona-1808/Opticrop#opticrop-smart-agricultural-production-optimization-engine)
+
 
 **Live Demo:** [https://opticrop-4xnf.onrender.com/](https://opticrop-4xnf.onrender.com/)
 **GitHub Repository:** https://github.com/leona-1808/Opticrop
@@ -25,7 +25,7 @@
 
 ## 📌 Overview
 
-(https://github.com/leona-1808/Opticrop#overview)
+
 
 OptiCrop is a **Smart Agricultural Production Optimization Engine** designed to provide data-driven insights for agricultural decision-making.
 
@@ -37,7 +37,7 @@ The project combines **data preprocessing, machine learning, clustering, data v
 
 ## 🎯 Problem Statement
 
-(https://github.com/leona-1808/Opticrop#problem-statement)
+
 
 Agricultural production depends significantly on soil quality and environmental conditions. Selecting a suitable crop without considering these factors can affect productivity and resource utilization.
 
@@ -47,7 +47,7 @@ OptiCrop addresses this problem by analyzing agricultural and environmental para
 
 ## 🎯 Objectives
 
-(https://github.com/leona-1808/Opticrop#objectives)
+
 
 | **No.Objective** |                                                                      |
 | ---------------- | -------------------------------------------------------------------- |
@@ -62,7 +62,7 @@ OptiCrop addresses this problem by analyzing agricultural and environmental para
 
 ## ✨ Key Features
 
-(https://github.com/leona-1808/Opticrop#key-features)
+
 
 | **FeatureDescription**      |                                                                                  |
 | --------------------------- | -------------------------------------------------------------------------------- |
@@ -80,7 +80,7 @@ OptiCrop addresses this problem by analyzing agricultural and environmental para
 
 ## 🌾 Use Cases
 
-(https://github.com/leona-1808/Opticrop#use-cases)
+
 
 ### 1. Smart Crop Recommendation for Farmers
 
@@ -92,7 +92,7 @@ OptiCrop analyzes the provided parameters and recommends a suitable crop based o
 
 ### 2. Crop Suitability and Environmental Assessment
 
-[svg](https://github.com/leona-1808/Opticrop#2-crop-suitability-and-environmental-assessment)
+
 
 A user can evaluate whether the current soil and environmental conditions are suitable for a particular crop.
 
@@ -100,7 +100,6 @@ The system analyzes the provided conditions and provides a crop suitability asse
 
 ### 3. Agricultural Research and Policy Planning
 
-[svg](https://github.com/leona-1808/Opticrop#3-agricultural-research-and-policy-planning)
 
 Agricultural researchers and stakeholders can use the system to analyze crop-environment relationships and identify patterns that can support data-driven agricultural planning.
 
@@ -108,7 +107,7 @@ Agricultural researchers and stakeholders can use the system to analyze crop-env
 
 ## 🧪 Input Parameters
 
-[svg](https://github.com/leona-1808/Opticrop#input-parameters)
+
 
 | **ParameterDescription** |                               |
 | ------------------------ | ----------------------------- |
@@ -124,17 +123,15 @@ Agricultural researchers and stakeholders can use the system to analyze crop-env
 
 ## 🤖 Machine Learning
 
-[svg](https://github.com/leona-1808/Opticrop#machine-learning)
+
 
 ### Data Preprocessing
 
-[svg](https://github.com/leona-1808/Opticrop#data-preprocessing)
 
 The agricultural dataset is processed before model training. The project performs preprocessing and handles outliers to prepare the data for machine learning.
 
 ### Logistic Regression
 
-[svg](https://github.com/leona-1808/Opticrop#logistic-regression)
 
 OptiCrop uses **Logistic Regression** for multi-class crop classification. The trained model is saved as:
 
@@ -147,7 +144,6 @@ model.pkl
 
 ### K-Means Clustering
 
-[svg](https://github.com/leona-1808/Opticrop#k-means-clustering)
 
 The project uses **K-Means Clustering** to analyze groups of similar agricultural conditions.
 
@@ -155,7 +151,7 @@ An **Elbow Method** analysis is also generated as part of the clustering proce
 
 ### Generated Model Files
 
-[svg](https://github.com/leona-1808/Opticrop#generated-model-files)
+
 
 | **FilePurpose**        |                                   |
 | ---------------------- | --------------------------------- |
@@ -167,7 +163,6 @@ An **Elbow Method** analysis is also generated as part of the clustering proce
 
 ## 📊 Dataset
 
-[svg](https://github.com/leona-1808/Opticrop#dataset)
 
 The project uses the following agricultural dataset:
 
@@ -176,7 +171,6 @@ Crop_recommendation.csv
 
 ```
 
-**svg**
 
 The dataset contains soil and environmental parameters used for crop recommendation and model training.
 
@@ -195,7 +189,7 @@ The dataset contains soil and environmental parameters used for crop recommendat
 
 ## 🛠️ Technology Stack
 
-[svg](https://github.com/leona-1808/Opticrop#technology-stack)
+
 
 | **CategoryTechnologies** |                       |
 | ------------------------ | --------------------- |
@@ -214,7 +208,6 @@ The dataset contains soil and environmental parameters used for crop recommendat
 
 ## 🏗️ System Architecture
 
-[svg](https://github.com/leona-1808/Opticrop#system-architecture)
 
 ```
 User
@@ -262,11 +255,11 @@ Agricultural Insights
 
 ## ⚙️ Local Installation
 
-[svg](https://github.com/leona-1808/Opticrop#local-installation)
+
 
 ### Prerequisites
 
-[svg](https://github.com/leona-1808/Opticrop#prerequisites)
+
 
 | **RequirementSpecification** |                                      |
 | ---------------------------- | ------------------------------------ |
@@ -278,7 +271,6 @@ Agricultural Insights
 
 ### 1. Clone the Repository
 
-[svg](https://github.com/leona-1808/Opticrop#1-clone-the-repository)
 
 ```
 git clone https://github.com/leona-1808/Opticrop.git
@@ -286,18 +278,17 @@ cd OptiCrop
 
 ```
 
-**svg**
+
 
 ### 2. Install Dependencies
 
-[svg](https://github.com/leona-1808/Opticrop#2-install-dependencies)
 
 ```
 pip install -r "5. Project Development Phase/requirements.txt"
 
 ```
 
-**svg**
+
 
 For Windows with Python 3.11:
 
@@ -306,7 +297,6 @@ py -3.11 -m pip install -r "5. Project Development Phase/requirements.txt"
 
 ```
 
-**svg**
 
 ### 3. Initialize the Database
 
@@ -317,7 +307,6 @@ py -3.11 "5. Project Development Phase/database.py"
 
 ```
 
-**svg**
 
 ### 4. Train the Model
 
@@ -328,7 +317,6 @@ py -3.11 "5. Project Development Phase/train_model.py"
 
 ```
 
-**svg**
 
 ### 5. Start the Application
 
@@ -339,7 +327,6 @@ py -3.11 "5. Project Development Phase/app.py"
 
 ```
 
-**svg**
 
 The application will run locally at:
 
@@ -348,13 +335,11 @@ http://127.0.0.1:5000/
 
 ```
 
-**svg**
 
 ---
 
 ## 🧩 Application Modules
 
-[svg](https://github.com/leona-1808/Opticrop#application-modules)
 
 | **ModuleDescription** |                                                                    |
 | --------------------- | ------------------------------------------------------------------ |
@@ -369,7 +354,6 @@ http://127.0.0.1:5000/
 
 ## 📚 Project Documentation
 
-[svg](https://github.com/leona-1808/Opticrop#project-documentation)
 
 Detailed project deliverables are available in:
 
@@ -378,7 +362,6 @@ Detailed project deliverables are available in:
 
 ```
 
-**svg**
 
 The documentation includes:
 
