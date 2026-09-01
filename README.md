@@ -84,7 +84,6 @@ OptiCrop addresses this problem by analyzing agricultural and environmental para
 
 ### 1. Smart Crop Recommendation for Farmers
 
-(https://github.com/leona-1808/Opticrop#1-smart-crop-recommendation-for-farmers)
 
 A farmer enters soil and environmental information such as Nitrogen, Phosphorous, Potassium, temperature, humidity, pH, and rainfall.
 
@@ -140,7 +139,6 @@ model.pkl
 
 ```
 
-**svg**
 
 ### K-Means Clustering
 
@@ -236,13 +234,11 @@ Agricultural Insights
 
 ```
 
-**svg**
 
 ---
 
 ## 🔄 Project Workflow
 
-[svg](https://github.com/leona-1808/Opticrop#project-workflow)
 
 1. User provides soil and environmental parameters.
 2. The Flask application receives the input.
@@ -300,7 +296,6 @@ py -3.11 -m pip install -r "5. Project Development Phase/requirements.txt"
 
 ### 3. Initialize the Database
 
-[svg](https://github.com/leona-1808/Opticrop#3-initialize-the-database)
 
 ```
 py -3.11 "5. Project Development Phase/database.py"
@@ -310,7 +305,6 @@ py -3.11 "5. Project Development Phase/database.py"
 
 ### 4. Train the Model
 
-[svg](https://github.com/leona-1808/Opticrop#4-train-the-model)
 
 ```
 py -3.11 "5. Project Development Phase/train_model.py"
@@ -320,7 +314,6 @@ py -3.11 "5. Project Development Phase/train_model.py"
 
 ### 5. Start the Application
 
-[svg](https://github.com/leona-1808/Opticrop#5-start-the-application)
 
 ```
 py -3.11 "5. Project Development Phase/app.py"
