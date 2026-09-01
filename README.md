@@ -10,7 +10,7 @@
 
 </p>
 
-[svg](https://github.com/leona-1808/Opticrop#opticrop-smart-agricultural-production-optimization-engine)
+(https://github.com/leona-1808/Opticrop#opticrop-smart-agricultural-production-optimization-engine)
 
 **Live Demo:** [https://opticrop-4xnf.onrender.com/](https://opticrop-4xnf.onrender.com/)
 **GitHub Repository:** https://github.com/leona-1808/Opticrop
@@ -25,7 +25,7 @@
 
 ## 📌 Overview
 
-[svg](https://github.com/leona-1808/Opticrop#overview)
+(https://github.com/leona-1808/Opticrop#overview)
 
 OptiCrop is a **Smart Agricultural Production Optimization Engine** designed to provide data-driven insights for agricultural decision-making.
 
@@ -37,7 +37,7 @@ The project combines **data preprocessing, machine learning, clustering, data v
 
 ## 🎯 Problem Statement
 
-[svg](https://github.com/leona-1808/Opticrop#problem-statement)
+(https://github.com/leona-1808/Opticrop#problem-statement)
 
 Agricultural production depends significantly on soil quality and environmental conditions. Selecting a suitable crop without considering these factors can affect productivity and resource utilization.
 
@@ -47,7 +47,7 @@ OptiCrop addresses this problem by analyzing agricultural and environmental para
 
 ## 🎯 Objectives
 
-[svg](https://github.com/leona-1808/Opticrop#objectives)
+(https://github.com/leona-1808/Opticrop#objectives)
 
 | **No.Objective** |                                                                      |
 | ---------------- | -------------------------------------------------------------------- |
@@ -62,7 +62,7 @@ OptiCrop addresses this problem by analyzing agricultural and environmental para
 
 ## ✨ Key Features
 
-[svg](https://github.com/leona-1808/Opticrop#key-features)
+(https://github.com/leona-1808/Opticrop#key-features)
 
 | **FeatureDescription**      |                                                                                  |
 | --------------------------- | -------------------------------------------------------------------------------- |
@@ -80,11 +80,11 @@ OptiCrop addresses this problem by analyzing agricultural and environmental para
 
 ## 🌾 Use Cases
 
-[svg](https://github.com/leona-1808/Opticrop#use-cases)
+(https://github.com/leona-1808/Opticrop#use-cases)
 
 ### 1. Smart Crop Recommendation for Farmers
 
-[svg](https://github.com/leona-1808/Opticrop#1-smart-crop-recommendation-for-farmers)
+(https://github.com/leona-1808/Opticrop#1-smart-crop-recommendation-for-farmers)
 
 A farmer enters soil and environmental information such as Nitrogen, Phosphorous, Potassium, temperature, humidity, pH, and rainfall.
 
